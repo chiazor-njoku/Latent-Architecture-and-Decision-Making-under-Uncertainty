@@ -7,7 +7,7 @@ This repository contains a set of simulation and Bayesian modelling studies inve
 
 A central question motivating this work is whether confidence systems treat different sources of uncertainty—such as stochastic noise and representational conflict—as computationally distinct, even when they produce matched levels of task performance.
 
-This project forms **one component of a broader research programme** examining the relationship between representation, uncertainty, and metacognitive evaluation.
+This project forms **one component of a broader research programme** examining the relationship between representation, uncertainty, metacognitive evaluation and action
 
 ---
 
