@@ -16,16 +16,14 @@ The repository serves as an ongoing record of the sequence, not a completed empi
 
 ### Current status: experimental simulation / viability test.
 
-This research investigates if two methods, which achieve the same level of objective accuracy but operate differently, result in varying impacts on confidence. One method adds noise to a decision’s evidence, preserving its coherence while introducing errors. The other method adds conflicting evidence, disrupting coherence. The study also examines whether these differences in confidence costs are consistent among individuals.
+This simulation investigates if two methods, which achieve the same level of objective accuracy but operate differently, resulting in varying impacts on confidence. One method adds noise to a decision’s evidence. It thus preserves coherence while introducing errors. The other method adds conflicting evidence, disrupting coherence. The also examines whether these differences in confidence costs are consistent among individuals.
 
 ### Motivation:
 
-Standard models of confidence typically treat uncertainty as a unitary construct. However, in many cognitive settings, equivalent behavioural accuracy can arise from qualitatively different generative mechanisms.
-
-This project tests whether these mechanisms are distinguishable at the level of confidence reports.
+Standard models of confidence typically treat uncertainty as a unitary construct. They also conceptualise confidence as a function of post-decisional accuracy accummulation. However, in many cognitive settings, equivalent behavioural accuracy can arise from qualitatively different generative mechanisms. 
 
 ### Prediction: 
-if confidence stems partly from a coherence signal, not just evidence strength, then manipulations that disrupt coherence should reduce confidence more than noise that matches accuracy. This holds true even for correct decisions.
+If confidence stems partly from a coherence signal, not just evidence strength, then manipulations that disrupt coherence should reduce confidence more than noise that matches accuracy. This holds true even for correct decisions.
 
 ## Folder Content
 
