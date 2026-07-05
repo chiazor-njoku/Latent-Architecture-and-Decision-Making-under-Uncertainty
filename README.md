@@ -2,9 +2,7 @@
 
 ## Framework
 
-The repository serves as a record of independent work to formalize a structural theory, proposing that consistent individual variations in the weight given to context-invariant representations (as a sufficiency standard for action when faced with uncertainty) form a latent architectural feature that systematically influences decision outcomes.
-
-This is offered as a structural-level explanation.
+This repository serves as a record of independent work to formalize a structural theory, proposing that consistent individual variations in the weight given to context-invariant representations (as a sufficiency standard for action when faced with uncertainty) form a latent architectural feature that systematically influences decision outcomes.
 
 This argument concerns an individual’s consistent standard for recognizing when enough structure has been gathered to take action, rather than the ongoing, real-time handling and accumulation of evidence.
 
