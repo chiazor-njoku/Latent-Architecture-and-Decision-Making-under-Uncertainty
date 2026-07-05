@@ -35,7 +35,7 @@ If confidence stems partly from a coherence signal, not just evidence strength, 
 
 The model detects a persistent confidence gap, even after accounting for accuracy, which worsens with coherence disruption. It also identifies consistent differences among individuals in the magnitude of this gap. In principle, this demonstrates that a standard hierarchical model can statistically detect the predicted signature, assuming the data aligns with the theory.
 
-This does not prove the theory’s accuracy, nor is it a test of the model’s ability to isolate the intended latent construct from data that doesn’t reveal how it was generated. The verification of this isolation is a future plan, not a concluded action.
+This does not prove the theory’s accuracy, nor is it a test of the model’s ability to isolate the intended latent construct from data that doesn’t reveal how it was generated.
 
 As a component of a larger hypothesis, this project serves as a working demonstration of formalizing and simulating, not a final version.
 
