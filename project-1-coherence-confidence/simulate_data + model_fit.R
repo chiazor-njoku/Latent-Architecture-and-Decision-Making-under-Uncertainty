@@ -51,10 +51,9 @@ dat <- expand_grid(
   )
 
 # =========================
-# STEP 2: CALIBRATE COHERENCE CONDITION
-# (optional but conceptually important)
+# STEP 2: CALIBRATE COHERENCE CONDITIO
 # =========================
-# We rescale distractor strength so accuracy roughly matches noise condition
+# Distractor strength is rescaled so accuracy roughly matches noise condition
 
 # quick heuristic scaling loop
 target_diff <- 0
@@ -76,7 +75,7 @@ for (i in 1:3) {
 }
 
 # =========================
-# STEP 3: CONFIDENCE GENERATION (THEORY LIVES HERE)
+# STEP 3: CONFIDENCE GENERATION 
 # =========================
 
 dat <- dat %>%
