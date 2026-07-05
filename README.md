@@ -16,7 +16,7 @@ The repository serves as an ongoing record of a formalise → simulate sequence,
 
 #### Current status: experimental simulation / viability test.
 
-This simulation investigates the effects of representational coherence-destabilization and error-introduction on confidence. There are two manipulation methods: (1) High signal-to-noise ratio of decision evidence strength, while coherence is preserved. (2) Conflict introduction to representation coherence, thereby disrupting internal coherence. This simulation also examines whether these differences in confidence costs vary among individuals.
+This simulation investigates the effects of representational coherence-destabilization and error-introduction on confidence. There are two manipulation methods: (1) High signal-to-noise ratio of evidence strength, while coherence is preserved. (2) Conflict introduction to representation coherence, thereby disrupting internal coherence. This simulation also examines whether these differences in confidence costs vary among individuals.
 
 ### Motivation:
 
