@@ -16,7 +16,7 @@ The repository serves as an ongoing record of the sequence, not a completed empi
 
 ### Current status: experimental simulation / viability test.
 
-This simulation investigates if two methods, which achieve the same level of objective accuracy but operate differently, resulting in varying impacts on confidence. One method adds noise to a decision’s evidence. It thus preserves coherence while introducing errors. The other method adds conflicting evidence, disrupting coherence. The also examines whether these differences in confidence costs are consistent among individuals.
+This simulation investigates if two methods, which achieve the same level of objective accuracy but operate differently, result in varying impacts on confidence. One method adds noise to a decision’s evidence. It thus preserves coherence while introducing errors. The other method adds conflicting evidence, disrupting coherence. The also examines whether these differences in confidence costs are consistent among individuals.
 
 ### Motivation:
 
