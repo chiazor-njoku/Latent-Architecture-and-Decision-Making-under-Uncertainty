@@ -1,4 +1,4 @@
-# Latent Architecture and Decision-Making Under Uncertainty
+# Decision-Making Under Uncertainty
 
 ## Framework
 
