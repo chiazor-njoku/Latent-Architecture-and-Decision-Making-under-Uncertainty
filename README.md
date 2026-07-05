@@ -16,14 +16,14 @@ The repository serves as an ongoing record of a formalise → simulate sequence,
 
 #### Current status: experimental simulation / viability test.
 
-This simulation investigates the effects of representational coherence-destabilization and error-introduction on confidence. There are two manipulation methods: (1) Signal-to-noise ratio of decision evidence strength, while coherence is preserved. (2) Conflict is introduced to the representation coherence, thereby disrupting internal coherence. This simulation also examines whether these differences in confidence costs vary among individuals.
+This simulation investigates the effects of representational coherence-destabilization and error-introduction on confidence. There are two manipulation methods: (1) High signal-to-noise ratio of decision evidence strength, while coherence is preserved. (2) Conflict introduction to representation coherence, thereby disrupting internal coherence. This simulation also examines whether these differences in confidence costs vary among individuals.
 
 ### Motivation:
 
 Standard models of confidence typically treat uncertainty as a unitary construct. They also conceptualise confidence as a function of post-decisional accuracy accummulation. However, in many cognitive settings, equivalent behavioural accuracy can arise from qualitatively different generative mechanisms. 
 
 ### Prediction: 
-If confidence stems partly from a coherence signal, not just evidence strength, then manipulations that disrupt internal representational coherence should reduce confidence more than manipulations that introduce noise, even when task accuracy remains the same across both conditions. This holds true even for correct decisions.
+If confidence stems partly from a coherence signal, not just decision-evidence strength, then manipulations that disrupt internal representational coherence should reduce confidence more than manipulations that introduce noise, even when task accuracy remains the same across both conditions. This holds true even for correct decisions.
 
 ## Status and next steps
 
