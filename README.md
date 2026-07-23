@@ -2,9 +2,9 @@
 
 ## Framework
 
-This repository serves as a record of independent work to formalize a structural theory, proposing that consistent individual variations in the weight given to context-invariant representations (as a sufficiency standard for action under uncertainty) form a latent architectural feature that systematically influences decision outcomes.
+This repository serves as a record of independent work to formalize a structural theory, proposing that consistent individual variations in the weight given to context-invariant representations (as a sufficiency standard for action under uncertainty) form an epistemic architecture that systematically influences decision outcomes.
 
-This argument concerns an individual’s consistent standard for recognizing when enough representational structure has been constructed to take action, rather than the ongoing, real-time handling and accumulation of evidence.
+This argument concerns an individual’s consistent standard for recognizing when enough representational structure has been constructed to take action, rather than the ongoing, real-time handling and accumulation of evidence. It also concerns how an individual maintains said representation.
 
 ## Method
 
