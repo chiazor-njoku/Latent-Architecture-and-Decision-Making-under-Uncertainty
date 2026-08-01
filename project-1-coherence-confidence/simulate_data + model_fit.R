@@ -51,7 +51,7 @@ dat <- expand_grid(
   )
 
 # =========================
-# STEP 2: CALIBRATE COHERENCE CONDITIO
+# STEP 2: CALIBRATE COHERENCE CONDITION
 # =========================
 # Distractor strength is rescaled so accuracy roughly matches noise condition
 
